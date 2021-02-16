@@ -1,6 +1,6 @@
 We are looking for:
 
-A new team member for one of our international portfolio companies, with the headquarters in Austria. They are leading innovators and full-service providers within their digital commerce industry and they are represented in 90 markets and have 7 offices across the globe.
+A **Senior Data Engineer** for one of our international portfolio companies, with the headquarters in Austria. They are leading innovators and full-service providers within their digital commerce industry and they are represented in 90 markets and have 7 offices across the globe. 
 
 
 What will keep you challenged?
