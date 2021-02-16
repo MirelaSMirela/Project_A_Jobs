@@ -36,7 +36,7 @@ A **Senior Data Engineer** for one of our international portfolio companies, wit
 * Being part of an instant network within the Project A family
 
 
-Do you want to be part of our portfolio company's success story?
-We are looking forward to your online application here: https://grnh.se/8fed5a652us 
+:pencil2: Do you want to be part of our portfolio company's success story?
+:pencil2: We are looking forward to your online application here: https://grnh.se/8fed5a652us 
 
 Project A is an operational venture capital firm that invests in early stage companies from a variety of industries such as digital health, robotics, and mobility amongst others. Our portfolio includes over 60 companies with different business models including B2C, B2B, SaaS, e-commerce and more. Within our company of over 100 professionals, over 15 teams offer their direct support to our portfolio companies with software engineering, marketing, sales, business intelligence and many other fields. In 2020 Project A was named Germany's best VC by Business Insider magazine.
