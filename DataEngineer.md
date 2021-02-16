@@ -1,4 +1,4 @@
-We are looking for man_technologist: :woman_technologist: :
+:woman_technologist: :man_technologist: We are looking for:
 
 A **Senior Data Engineer** for one of our international portfolio companies, with the headquarters in Austria. They are leading innovators and full-service providers within their digital commerce industry and they are represented in 90 markets and have 7 offices across the globe. They are flexible with the location, but ideally you are a resident in Germany or Austria. :office: :house:
 
