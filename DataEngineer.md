@@ -1,9 +1,9 @@
-We are looking for:
+We are looking for man_technologist: :woman_technologist: :
 
-A **Senior Data Engineer** for one of our international portfolio companies, with the headquarters in Austria. They are leading innovators and full-service providers within their digital commerce industry and they are represented in 90 markets and have 7 offices across the globe. They are flexible with the location, but ideally you are a resident in Germany or Austria. 
+A **Senior Data Engineer** for one of our international portfolio companies, with the headquarters in Austria. They are leading innovators and full-service providers within their digital commerce industry and they are represented in 90 markets and have 7 offices across the globe. They are flexible with the location, but ideally you are a resident in Germany or Austria. :office: :house:
 
 
-What will keep you challenged?
+:computer: What will keep you challenged?
 
 * Developing and maintaining the data infrastructure at our portfolio company 
 * Expanding their data warehouse to cover further use cases in close collaboration with a team of data architects
@@ -12,7 +12,7 @@ What will keep you challenged?
 * Providing input on data models and analytical tasks from a data handling perspective
 
 
-Which traits contribute to your success?
+:trophy: Which traits contribute to your success?
 
 * Background in computer science or a quantitative field with demonstrable coding experience
 * 3+ years of experience in a data-related engineering role
@@ -23,7 +23,7 @@ Which traits contribute to your success?
 * Fluent German and English skills
 * First experiences with regression models, devops & self-service BI tools such as Metabase or Tableau would be desirable
 
-What to expect working with our portfolio company:
+:tada: What to expect working with our portfolio company:
 
 * Make a true impact in the commerce industry
 * Take advantage of employee discount opportunities, company benefits, health benefits, and partner programs
